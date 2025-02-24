@@ -48,7 +48,9 @@ OR use hand aktivation:
 4. slmgr /ato
 
 ## 📷 Screenshots
-![Manual aktivation](windows.png)
+
+![windows](https://github.com/user-attachments/assets/35d29c4b-b554-4800-a430-15ec458a2435)
+
 
 ## 🔧 Requirements
 - Windows 10/11
